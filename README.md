@@ -1,9 +1,9 @@
 # Who? 👋
-Howdy, I'm Brian. Digital Media Producer turned AV Technician turned Junior web Dev.
+Howdy, I'm Brian. A Digital Media Producer turned AV Technician turned Web Developer.
 
 # What? 👀
-I’m currently working mostly in Python, JS, MySQL.
-Other projects on my radar: Cordova and React.
+I’m currently working mostly in JavaScript and Python.
+Other projects on my radar: PWA's and IOS development.
 
 # How? 📫
 Feel free to check out my [website](https://qwilliams815.github.io/portfolioSite/#home) and say hello!
