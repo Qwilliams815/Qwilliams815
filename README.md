@@ -6,7 +6,7 @@ I’m currently working mostly in JavaScript and Python.
 Other projects on my radar: PWA's and IOS development.
 
 # How? 📫
-Feel free to check out my [website](https://brianandwilliams.com/) and say hello!
+Feel free to check out my [website](https://brianwilldev.com/) and say hello!
 
 <!---
 Qwilliams815/Qwilliams815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
